@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm Rachel, Computer Science Student at Glendale Community College.
+I'm Rachel, programming intern at Pasadena City College.
 
 ## My Projects
 
