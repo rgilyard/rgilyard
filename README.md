@@ -1,6 +1,8 @@
 # Welcome!
 
-I'm Rachel, programming intern at Pasadena City College.
+My name is Rachel. I'm an intern at Mission Support and Test Services.
+
+I'm earning my Master of Science in Computer Science at California State University Northridge.
 
 ## My Projects
 
